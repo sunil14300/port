@@ -1,0 +1,41 @@
+[
+  
+  {
+    "name": "Ecommerce MERN",
+    "desc": "A full-stack e-commerce application built with the MERN stack, featuring JWT authentication, product management, and real-time cart updates.",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/sunil14300/Shopping-website"
+    }
+  },
+  {
+    "name": "Ticket Management System",
+    "desc": "A full-stack ticket management system built with the MERN stack, featuring ticket creation, assignment, status tracking, and an admin dashboard.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/sunil14300/Ticket"
+    }
+  },
+  {
+    "name": "VBR Fabrication",
+    "desc": "A ReactJS-based website for VBR Fabrication showcasing services, portfolio, and contact features with a clean, responsive design.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://sunil14300.github.io/VBRfabrication/",
+      "code": "https://github.com/sunil14300/VBRfabrication"
+    }
+  },
+  {
+    "name": "API CRUD",
+    "desc": "A simple CRUD application built with ReactJS and JSON Server, allowing users to create, read, update, and delete data.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://recipe-app-neon-one.vercel.app/",
+      "code": "https://github.com/sunil14300/RecipeApp"
+    }
+  }
+]
